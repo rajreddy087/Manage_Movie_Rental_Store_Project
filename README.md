@@ -1,4 +1,4 @@
-# movie_rental_project
+# Manage_Movie_Rental_Store_Project
 1.Initializing Inventory and Customer Database (Lists and Dictionaries): Start with an initial collection of movies and a customer database.
 
 2.Adding New Movies (Lists and Dictionaries): Add new movies to the store's inventory.
